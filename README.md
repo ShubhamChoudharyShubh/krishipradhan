@@ -14,4 +14,4 @@ Community forum: A community forum where farmers can connect with each other, sh
 
 Contributing
 Contributions to Krishipradhan are always welcome! If you would like to contribute, please create a pull request with your changes. Before creating a pull request, please make sure that your changes are thoroughly tested and do not break any existing functionality.
-![Uploading screencapture-shubhamchoudharyshubh-github-io-krishipradhan-2023-07-07-21_56_43.png…]()
+![screencapture-shubhamchoudharyshubh-github-io-krishipradhan-2023-07-07-21_56_43](https://github.com/ShubhamChoudharyShubh/krishipradhan/assets/96586771/2ed9ddc8-8f0b-42e7-8a4f-2bfe466f1156)
